@@ -77,7 +77,7 @@
         },
         "mail": {
             "enabled": true,
-            "secrets": "MAIL_KEY",
+            "secrets": "QQMail",
             "address": "firmianay@163.com",
             "server": "smtp.163.com",
             "receiver": ["444021047@qq.com"],
