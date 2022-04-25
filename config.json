@@ -80,8 +80,8 @@
             "secrets": "MAIL_KEY",
             "address": "firmianay@163.com",
             "server": "smtp.163.com",
-            "receiver": ["2419110059@qq.com"],
-            "key": "xxxxxxxxxx"
+            "receiver": ["444021047@qq.com"],
+            "key": "czzpbrgywclwbghi"
         }
     }
 }
